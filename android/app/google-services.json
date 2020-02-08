@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "214129214291",
+    "firebase_url": "https://parking-b6fef.firebaseio.com",
+    "project_id": "parking-b6fef",
+    "storage_bucket": "parking-b6fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214129214291:android:2e9085722868f7ccb857a6",
+        "android_client_info": {
+          "package_name": "org.crhsidea.crhs_parking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214129214291-p5ritn208bpma9sfe1nh7j12epqvqupr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHr6R5h5o8937dcg0oIZ5lnKy4EjvolAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214129214291-p5ritn208bpma9sfe1nh7j12epqvqupr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
